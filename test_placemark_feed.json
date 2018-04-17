@@ -1,0 +1,16 @@
+{
+    "items":[
+      {
+        "uid":"placemark_UID1",
+        "name":"A555.1",
+        "x": "200",
+        "y": "200"
+      },
+      {
+        "uid":"placemark_UID2",
+        "name":"A555.2",
+        "x": "220",
+        "y": "200"
+      }
+    ]
+  }
